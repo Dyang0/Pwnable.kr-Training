@@ -6,38 +6,43 @@
 ## Challenge 1 (fd)
 - Difficulty = Easy
 
-  228  ssh fd@pwnable.kr -p2222
+- ssh fd@pwnable.kr -p2222
 
-  229  dig pwnable.kr
+- dig pwnable.kr
 
-  230  curl google.com
+- curl google.com
 
-  231  ssh fd@pwnable.kr -p2222
+- ssh fd@pwnable.kr -p2222
 
-  232  dig pwnable.kr
+- dig pwnable.kr
 
-  233  ssh fd@128.61.240.205 -p2222
+- ssh fd@128.61.240.205 -p2222
 
-  234  scp -P2222 fd@pwnable.kr:fd .
+- scp -P2222 fd@pwnable.kr:fd .
 
-  235  ls
+- ls
 
-  236  scp -P2222 fd@pwnable.kr:fd.c .
+- scp -P2222 fd@pwnable.kr:fd.c .
 
-  237  cat fd.c
+- cat fd.c
 
-  238  man atoi
+- man atoi
 
-  239  ls
+- ls
 
-  240  ./fd
+- ./fd
 
-  241  ./fd 10
+- ./fd 10
 
-  242  cat
+- cat
 
-  243  ls
+- ls
 
-  244  ./fd 4660
+- ./fd 4660
+
+![image](https://github.com/Dyang0/Pwnable.kr-Training/assets/70818105/00644151-3dfb-4ce0-89e2-2505cd48e5c7)
+
+![image](https://github.com/Dyang0/Pwnable.kr-Training/assets/70818105/bab36b15-577a-4671-9b1f-11c2dc77453e)
+
 
 ## Takeaways
