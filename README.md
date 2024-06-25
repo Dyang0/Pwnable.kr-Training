@@ -45,4 +45,6 @@
 ![image](https://github.com/Dyang0/Pwnable.kr-Training/assets/70818105/bab36b15-577a-4671-9b1f-11c2dc77453e)
 
 
-## Takeaways
+## Takeaways:
+
+## Challenge 2 (Collision)
