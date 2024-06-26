@@ -6,7 +6,7 @@
 ## Challenge 1 (fd)
 - Difficulty = Easy
 
-Commands
+### Commands
 - ssh fd@pwnable.kr -p2222
 
 - dig pwnable.kr
